@@ -1,0 +1,2 @@
+This is the shell/bash script to add web / db server under nagios monitoring and saperate them as per the category. Like, LAMP server, DB server, Web server, Virtal Machine, Physical Machine, ect.
+Please note that, This script needs to be run on Nagios Server and it is assumed that nagios client and NRPE service is already installed and running on the server which needs to added.
